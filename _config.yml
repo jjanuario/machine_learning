@@ -1,0 +1,37 @@
+# site settings
+title: Machine Learning
+subtitle: My lane to change my life and change to up the human with smart automation.
+email: jeferson.januario@gmail.com
+description: My lane to learning Machine Learn <br /> Statistics e Business Administration.
+baseurl: "/machine_learning" # the subpath of your site, e.g. /blog
+url: https://asterixsolucoes.com.br # the base hostname & protocol for your site
+author: jeferson.januario@gmail.com
+street_address: Vila Nova Curuça
+city: São Paulo
+state: SP
+zip_code: 18031-180
+country: Brasil
+phone: (55) 1121306244
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://facebook.com/jeferson.januariof
+github_url: https://github.com/jjanuario
+gitlab_url: https://gitlab.com/jeferson.januario
+googleplus_url: https://asterixsolucoes.com.br
+instagram_url: https://instagram.com/jefersonjanuarioi
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+paypal_url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QGXJPUQVZQD4E&source=url
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/jefersonjanuari
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
